@@ -8,7 +8,7 @@ As an AWS Certified Cloud Practitioner, I am well-prepared to excel in Data Scie
 **Open to work immediately!!**
 
 ##  What I can do
-! [logo]  Programming
+![Logo](assets/prog_symbol.png) Programming
 Python, SQL, MATLAB, C/C++, Shell Scripting
 
 
