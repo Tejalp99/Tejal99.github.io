@@ -8,8 +8,7 @@ As an AWS Certified Cloud Practitioner, I am well-prepared to excel in Data Scie
 **Open to work immediately!!**
 
 ##  What I can do
-<img src="assets/logo.png" alt="Logo" style="max-width: 100%; height: auto;">
- **Programming:**
+<img src="assets/logo.png" alt="Logo" style="max-width: 100%; height: auto;"> **Programming:**
 Python, SQL, MATLAB, C/C++, Shell Scripting
 
 
