@@ -1,1 +1,7 @@
-# Tejal99.github.io
+# Data Scientist
+
+### Education
+Data Science, MS
+
+### Projects
+
