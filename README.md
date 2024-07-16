@@ -26,13 +26,19 @@ As an AWS Certified Cloud Practitioner, I am well-prepared to excel in Data Scie
 
 ## Education
 **College of Engineering at Northeastern University**
+
 _September 2022 - May 2024_
+
 Master of Science in Electrical and Computer Engineering (Computer Vision and Machine Learning Algorithms) 
+
 _**Coursework:** Database Management Systems, Fundamental of Computer Engineering, Information Retrieval, Introduction to Machine Learning and Pattern Recognition, Parallel Processing with big Data 
                  Analysis, Computer Vision, Reinforcement Learning   
 
+
 **Shri Ramdeobaba College of Engineering and Management**
+
 _Augist 2017 - May 2021_
+
 Bachelors of Engineering (Electronics Engineering)
 
 
