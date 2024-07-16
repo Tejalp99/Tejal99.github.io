@@ -38,10 +38,10 @@ _Augist 2017 - May 2021_
 Bachelors of Engineering (Electronics Engineering)
 
 
-### Projects
+## Projects
 
-## Shallow Convolutional Neural Network for Image Processing
+### Shallow Convolutional Neural Network for Image Processing
 
-[](![MT-500x292](https://github.com/user-attachments/assets/2a183a62-1418-4e39-9621-70b964263b1e))
+![MT-500x292](https://github.com/user-attachments/assets/2a183a62-1418-4e39-9621-70b964263b1e)
 
 This project explores the potential of shallow neural networks to deliver high performance in image classification tasks by scaling horizontally (increasing width and resolution) rather than vertically (adding depth). The main aim is to reduce computational complexity while maintaining competitive accuracy compared to deeper neural networks.
