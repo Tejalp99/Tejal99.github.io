@@ -40,7 +40,7 @@ Bachelors of Engineering (Electronics Engineering)
 
 ## Projects
 
-### Shallow Convolutional Neural Network for Image Processing
+### [Shallow Convolutional Neural Network for Image Processing](https://github.com/Tejalp99/SHALLOW-CONVOLUTIONAL-NEURAL-NETWORK-FOR-IMAGE-PROCESSING)
 
 ![MT-500x292](https://github.com/user-attachments/assets/2a183a62-1418-4e39-9621-70b964263b1e)
 
