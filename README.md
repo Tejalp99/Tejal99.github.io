@@ -72,3 +72,7 @@ Developed a predictive model to identify factors contributing to customer churn 
 [![images](https://github.com/user-attachments/assets/534f37a5-d92b-4d7b-8ba8-5ffe6f4e86a1)
 ](https://public.tableau.com/app/profile/tejal6145/viz/BankChurn_16940515793450/Story1)
 
+### Airbnb Story
+
+[![1_lZa_IgPNvVmK6Dwryo0HQg](https://github.com/user-attachments/assets/8f5d2e40-668f-4f17-b8c1-100067dd2af0)](https://public.tableau.com/app/profile/tejal6145/viz/AirbnbStory_16697029072260/Story1)
+
