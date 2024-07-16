@@ -29,8 +29,7 @@ As an AWS Certified Cloud Practitioner, I am well-prepared to excel in Data Scie
 _September 2022 - May 2024_
 Master of Science in Electrical and Computer Engineering (Computer Vision and Machine Learning Algorithms) 
 
-_**Coursework:** Database Management Systems, Fundamental of Computer Engineering, Information Retrieval, Introduction to Machine Learning and Pattern Recognition, Parallel Processing with big Data 
-                 Analysis, Computer Vision, Reinforcement Learning   
+_**Coursework:** Database Management Systems, Fundamental of Computer Engineering, Information Retrieval, Introduction to Machine Learning and Pattern Recognition, Parallel Processing with big Data Analysis, Computer Vision, Reinforcement Learning_   
 
 
 **Shri Ramdeobaba College of Engineering and Management**
