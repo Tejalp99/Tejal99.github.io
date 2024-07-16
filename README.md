@@ -63,3 +63,9 @@ Developed a machine learning model using UNET architecture for the segmentation 
 ![1698802120424](https://github.com/user-attachments/assets/4c8f2ab8-2cf5-4fde-8658-150961bca12b)
 
 Developed a predictive model to identify factors contributing to customer churn in the banking sector and to classify customers at risk of churning. The project aimed to provide actionable insights to reduce attrition and retain valuable customers.
+
+
+## Visualization
+
+### [Bank Churning Rate](https://public.tableau.com/app/profile/tejal6145/viz/BankChurn_16940515793450/Story1)
+
