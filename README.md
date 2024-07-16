@@ -88,5 +88,5 @@ Developed a predictive model to identify factors contributing to customer churn 
 ### AWS Cloud Practitioner
 ![hqdefault](https://github.com/user-attachments/assets/d79729ab-d748-49c8-ad60-0714c23b0f4d)
 
-
-![images](https://github.com/user-attachments/assets/6a4387fe-cf68-4edf-a7d5-bc0336ccd69f)  ### Deployment of Machine Learning Models
+### Deployment of Machine Learning Models
+![images](https://github.com/user-attachments/assets/6a4387fe-cf68-4edf-a7d5-bc0336ccd69f)  
