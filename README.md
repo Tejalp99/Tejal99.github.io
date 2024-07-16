@@ -67,7 +67,8 @@ Developed a predictive model to identify factors contributing to customer churn 
 
 ## Visualization
 
-### [Bank Churning Rate]
+### Bank Churning Rate
 
-[![Churn-Prediction-scaled](https://github.com/user-attachments/assets/fa7a1d8d-deec-4b85-a194-eab06b062b96)](https://public.tableau.com/app/profile/tejal6145/viz/BankChurn_16940515793450/Story1)
+[![images](https://github.com/user-attachments/assets/534f37a5-d92b-4d7b-8ba8-5ffe6f4e86a1)
+](https://public.tableau.com/app/profile/tejal6145/viz/BankChurn_16940515793450/Story1)
 
