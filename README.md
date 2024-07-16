@@ -85,5 +85,6 @@ Developed a predictive model to identify factors contributing to customer churn 
 
 ## Certifications
 
-(![hqdefault](https://github.com/user-attachments/assets/d79729ab-d748-49c8-ad60-0714c23b0f4d))[Issued on May 2023 by Amazon]
+![hqdefault](https://github.com/user-attachments/assets/d79729ab-d748-49c8-ad60-0714c23b0f4d)
+_Issued on May 2023 by Amazon_
 
